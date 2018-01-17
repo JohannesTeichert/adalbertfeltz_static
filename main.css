@@ -4,24 +4,14 @@
 
 body{
   padding-top: 0;
+  position: relative;
 }
 
 .container{
+  margin-left: 20%;
+}
+
+.navlink {
   padding-top: 120px;
 }
 
-/*
-#wrapper-nav ul{
-  width: 100%;
-}
-*/
-
-/*
-#top-nav{
-  width: inherit;
-}
-
-#spy{
-  width: inherit;
-}
-*/
