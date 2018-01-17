@@ -1,0 +1,27 @@
+#wrapper-nav{
+  padding: 0;
+}
+
+body{
+  padding-top: 0;
+}
+
+.container{
+  padding-top: 120px;
+}
+
+/*
+#wrapper-nav ul{
+  width: 100%;
+}
+*/
+
+/*
+#top-nav{
+  width: inherit;
+}
+
+#spy{
+  width: inherit;
+}
+*/
